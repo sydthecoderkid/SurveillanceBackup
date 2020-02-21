@@ -6,6 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 65dd4fb6da41da4418bd2208cbd22114
+  - enabled: 1
     path: Assets/Scenes/LevelSelection.unity
     guid: dc2dace69643f5b49a973b19f7162615
+  - enabled: 1
+    path: Assets/Scenes/HighScores.unity
+    guid: 73e7ccb2bedcfa94fb60e2d6ea6a33aa
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: e3bb64866ca8ff8419b85ef44b7f82c9
+  - enabled: 1
+    path: Assets/Scenes/Debrief.unity
+    guid: e88bc84c10648a840a0046af8c555d31
+  - enabled: 1
+    path: Assets/Scenes/BankScene.unity
+    guid: 0aaff11ae10c5c34383baa69b0aa5d9e
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 9ae0162094791d74c9ad1d9ed1759a7a
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 9547e18290b6c2447a24eda96ff95e49
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 80e4d2eded622fe499f84e1345116959
   m_configObjects: {}
